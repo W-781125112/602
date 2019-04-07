@@ -1,0 +1,4 @@
+﻿  main.c
+f:\c_work\vs_work\snake\snake\main.c(11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Snake.vcxproj -> F:\C_work\VS_work\Snake\Debug\Snake.exe
+  Snake.vcxproj -> F:\C_work\VS_work\Snake\Debug\Snake.pdb (Partial PDB)
