@@ -172,4 +172,5 @@ void playGame(void)
 		showUI();
 		Sleep(500);
 	}
+    printf("сно╥╫АйЬё║");
 }
